@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/guilh/OneDrive/Desktop/water-potability-ml/mlruns/763269671156575726/17fadc2fcd294f27813fc5a4d484dc65/artifacts
+end_time: 1769776101851
+entry_point_name: ''
+experiment_id: '763269671156575726'
+lifecycle_stage: active
+run_id: 17fadc2fcd294f27813fc5a4d484dc65
+run_name: clumsy-goose-175
+run_uuid: 17fadc2fcd294f27813fc5a4d484dc65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769776087622
+status: 3
+tags: []
+user_id: guilh

@@ -1,0 +1,12 @@
+# Data processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Experiment tracking / Model Registry
+mlflow==2.9.2
+
+# Data validation
+pydantic==2.5.3
